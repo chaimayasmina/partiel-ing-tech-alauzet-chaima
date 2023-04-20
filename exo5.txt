@@ -1,0 +1,1 @@
+Node.js c'est un environnement d'exécution JavaScript, il s'execute en dehors d'un navigateur.
