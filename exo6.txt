@@ -1,0 +1,3 @@
+Le backend, c'est toute la partie cachée, c'est ce qui est inaccessible aux utilisateurs.
+Le backend, c'est ce qui va permettre aux API de fonctionner c'est-à-dire par exemple : 
+un clic sur un bouton dans un site internet ou sur une application qui va engendrer une action/requette en allant chercher l'information dans les paramètres prédéfinis dans le backend et qui va ensuite la renvoyer à l'utilisateur qui a cliqué.
