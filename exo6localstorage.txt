@@ -1,0 +1,5 @@
+Quel est la différence entre le Local storage et le session strorage?
+
+Le "Local Storage" stock des données de façon permanente alors que le "Session Storage" stock des données de façon temporaire.
+Pour simplifier, le "Local Storage" stock les données même lorque l'utilisateur va fermer la page de son  navigateur par exemple,
+et le "Session Storage" va supprimer les données lorsque l'utilisateur aura fermé le navigateur ou l'onglet en question.
